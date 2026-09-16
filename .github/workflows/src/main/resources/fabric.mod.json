@@ -9,6 +9,9 @@
   "entrypoints": {
     "main": [
       "com.geminibot.GeminiBotMod"
+    ],
+    "client": [
+      "com.geminibot.client.GeminiBotClient"
     ]
   },
   "depends": {
